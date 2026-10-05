@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 Get a free Gemini API key from Google AI Studio and save it as an environment variable called `GEMINI_API_KEY`. The key is never written in the code.
 
-Download the Vision 2030 overview PDF from the official Vision 2030 website and save it in this folder as `vision-2030-overview.pdf`. The PDF is not included here.
+Download the Vision 2030 overview PDF from the official Vision 2030 website(https://www.vision2030.gov.sa/media/rc0b5oy1/saudi_vision203.pdf) and save it in the project folder as `vision-2030-overview.pdf`.
 
 ```bash
 python brief.py
