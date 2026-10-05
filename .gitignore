@@ -1,0 +1,4 @@
+# the report PDF is not uploaded (download it yourself, see README)
+*.pdf
+.~lock.*
+__pycache__/
